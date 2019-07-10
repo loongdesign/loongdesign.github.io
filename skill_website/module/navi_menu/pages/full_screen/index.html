@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Full-screen Navigation using CSS only Modal</title>
+  
+  
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.0.2/tailwind.min.css'>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:500,700&amp;display=swap'>
+
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <body class="bg-gray-100 antialiased font-sans">
+  <header class="lg:px-16 px-8 bg-white flex flex-wrap items-center py-4 shadow-md">
+    <div class="flex-1 flex justify-between items-center">
+      <a href="#" class="text-xl">DentalPro</a>
+    </div>
+
+    <a href="#open-modal">
+    <label for="menu-toggle" class="pointer-cursor block">
+      <svg class="fill-current text-gray-900"  xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M4 6H20V8H4zM4 11H20V13H4zM4 16H20V18H4z"/></svg>
+    </label>
+    </a>
+  </header>
+
+  <div id="open-modal" class="modal-window">
+    <div class="">
+
+      <div class="flex flex-wrap items-center justify-between px-8 py-4">
+        <div class="">
+          <a href="#" class="text-xl">DentalPro</a>
+        </div>
+
+        <div>
+          <a href="#" title="Close" class="modal-close">
+        <svg class="fill-current text-gray-900" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path d="M16.192 6.344L11.949 10.586 7.707 6.344 6.293 7.758 10.535 12 6.293 16.242 7.707 17.656 11.949 13.414 16.192 17.656 17.606 16.242 13.364 12 17.606 7.758z"/></svg>
+        </a>
+        </div>
+      </div>
+
+      <div class="flex">
+        <nav class="w-full items-center justify-center">
+          <ul class="flex flex-col items-center text-3xl text-gray-700 pt-4 md:pt-0">
+            <li><a class="py-6 px-0 block" href="#">About Us</a></li>
+            <li><a class="py-6 px-0 block" href="#">Treatments</a></li>
+            <li><a class="py-6 px-0 block" href="#">Blog</a></li>
+            <li><a class="py-6 px-0 block" href="#">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+</body>
+  
+  
+
+</body>
+
+</html>
