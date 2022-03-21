@@ -125,6 +125,10 @@ nav .container .links a {
   color: #e8595e;
 }
 
+.b9-casino nav .container a {
+    color: #053b7a;
+}
+
 .sharession nav .container .links > a {
   color: rgba(0,0,0,0.5);
 }
@@ -314,6 +318,10 @@ footer {
   color: #a89201;
 }
 
+.kt2win-card .view-cta {
+  color: #a89201;
+}
+
 .st-card .view-cta {
   color: black;
   background-color: white;
@@ -342,6 +350,11 @@ footer {
   background-color: #20a94d;
 }
 
+.b9casino-card .cta,
+.b9casino-card .label {
+  background-color: #053b7a;
+}
+
 .sqrl-card .cta,
 .sqrl-card .label {
   background-color: #eecb00;
@@ -354,6 +367,12 @@ footer {
   color: #aaa;
 }
 
+.kt2win-card .cta,
+.kt2win-card .label {
+  background-color: #f2f2f2;
+  color: #aaa;
+}
+
 .st-card .cta,
 .st-card .label {
   background-color: #f2f2f2;
@@ -362,6 +381,24 @@ footer {
 
 .st-card.card .text {
   margin-top: 30px;
+}
+
+.b9casino-card {
+  background-color: #10FDD9;
+  background: url(../images/b9casino.jpg) bottom center no-repeat;
+  background-size: auto 600px;
+}
+
+.b9casino-card {
+  background-color: #10FDD9;
+  background: url(../images/b9casino.jpg) bottom center no-repeat;
+  background-size: auto 600px;
+}
+
+.kt2win-card {
+  background-color: #10FDD9;
+  background: url(../images/kt2win.jpg) bottom center no-repeat;
+  background-size: auto 600px;
 }
 
 .fitness-card {
@@ -385,6 +422,12 @@ footer {
 .sqrl-card {
   background-color: #ffd800;
   background: url(../images/apptivity.png) bottom center no-repeat;
+  background-size: auto 600px;
+}
+
+.empire-card {
+  background-color: #ffd800;
+  background: url(../images/empire/empire.png) bottom center no-repeat;
   background-size: auto 600px;
 }
 
@@ -995,6 +1038,18 @@ ul li.title::before {
   background-color: #10FDD9;
   padding: 50px 0 20px 0;
   margin: 0;
+}
+
+.blue9-bg {
+    background-color: #575757;
+}
+
+.d.blue-bg {
+    background-color: #3454D1;
+}
+
+.dark-bg {
+    background-color: #10FDD9;
 }
 
 .green-bg {
