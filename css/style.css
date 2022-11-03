@@ -1587,6 +1587,12 @@ p.small {
     background-size: cover;
   }
 
+  .rise-card.card, .st.card-container {
+    height: 600px;
+    background: url(../images/rotr_mobile.png) left center no-repeat;
+    background-size: cover;
+  }
+
    .fitness-card {
     height: 600px;
     background: url(../images/cake_mobile.png) left center no-repeat;
