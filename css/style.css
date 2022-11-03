@@ -200,6 +200,10 @@ footer {
   height: 400px;
 }
 
+.rise-card.card, .rise.card-container {
+    height: 400px;
+}
+
 .st-card .title img {
   height: 45px;
 }
@@ -405,6 +409,12 @@ footer {
   background-color: #7028b0;
   background: url(../images/cake.png) bottom center no-repeat;
   background-size: auto 600px;
+}
+
+.rise-card {
+  background-color: #f7f7f7;
+  background: url(../images/rise.png) left center no-repeat;
+  background-size: cover;
 }
 
 .timezone-card {
