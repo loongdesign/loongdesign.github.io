@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">  <rect x="0" y="0" width="1200" height="600" fill="#fafafa"/>
+  <g>
+    <circle cx="50" cy="50" r="6" fill="#7028B0"/>
+    <text x="70" y="56" font-size="14" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#999">UWIN33</text>
+    <text x="1150" y="56" text-anchor="end" font-size="12" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#bbb">OUTCOMES</text>
+    <line x1="40" y1="80" x2="1160" y2="80" stroke="#eee" stroke-width="1"/>
+  </g>
+  <text x="60" y="170" font-size="28" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="300" fill="#222">By the numbers</text>
+  <text x="60" y="200" font-size="14" fill="#888">Quick view of the project impact</text>
+  <line x1="135.0" y1="270" x2="255.0" y2="270" stroke="#7028B0" stroke-width="3"/>
+  <text x="195.0" y="360" text-anchor="middle" font-size="78" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="300" fill="#222">12<tspan font-size="32" fill="#888">+</tspan></text>
+  <text x="195.0" y="400" text-anchor="middle" font-size="14" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#444">Pages</text>
+  <text x="195.0" y="425" text-anchor="middle" font-size="11" fill="#888">Full revamp</text>
+  <line x1="405.0" y1="270" x2="525.0" y2="270" stroke="#7028B0" stroke-width="3"/>
+  <text x="465.0" y="360" text-anchor="middle" font-size="78" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="300" fill="#222">3<tspan font-size="32" fill="#888"></tspan></text>
+  <text x="465.0" y="400" text-anchor="middle" font-size="14" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#444">Breakpoints</text>
+  <text x="465.0" y="425" text-anchor="middle" font-size="11" fill="#888">Mobile / Tablet / Desktop</text>
+  <line x1="675.0" y1="270" x2="795.0" y2="270" stroke="#7028B0" stroke-width="3"/>
+  <text x="735.0" y="360" text-anchor="middle" font-size="78" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="300" fill="#222">1<tspan font-size="32" fill="#888">x</tspan></text>
+  <text x="735.0" y="400" text-anchor="middle" font-size="14" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#444">Design system</text>
+  <text x="735.0" y="425" text-anchor="middle" font-size="11" fill="#888">Reusable tokens</text>
+  <line x1="945.0" y1="270" x2="1065.0" y2="270" stroke="#7028B0" stroke-width="3"/>
+  <text x="1005.0" y="360" text-anchor="middle" font-size="78" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="300" fill="#222">4<tspan font-size="32" fill="#888">wk</tspan></text>
+  <text x="1005.0" y="400" text-anchor="middle" font-size="14" font-family="'Lato','Helvetica Neue',Arial,sans-serif" font-weight="600" letter-spacing="2" fill="#444">Delivery</text>
+  <text x="1005.0" y="425" text-anchor="middle" font-size="11" fill="#888">Concept to handoff</text>
+</svg>
